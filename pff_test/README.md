@@ -56,3 +56,6 @@ The structure of the algorithm should be the following:
 The polygon will depend on two parameters: the number of sides to the polygon, and the length of each side. To make the robot move in a square of length 1 we can input: 
 
 $ rosrun pff_test open_polygon -n 4 -d 1
+
+![Alt text](/pff_test/images/Screenshot from 2017-03-07 18:26:40.png?raw=true "XYZ")
+
