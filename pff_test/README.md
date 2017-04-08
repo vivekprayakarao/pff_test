@@ -38,6 +38,7 @@ Run the following command:
 $ roslaunch turtlebot_teleop keyboard_teleop.launch
 
 We can control the turtle bot using the keys from our computer.
+
 ![Alt text](/pff_test/images/Screenshot from 2017-03-07 18:26:49.png?raw=true "Keyboard Test")
 
 
